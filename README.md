@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Parimal7/parimal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at a facial recognition startup called Kwikpic.
 - 🌱 I’m currently learning Emacs
 
